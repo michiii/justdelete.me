@@ -4050,6 +4050,34 @@
     },
 
     {
+        "name": "qmpeople",
+        "url": "https://www.qmpeople.com/",
+        "difficulty": "medium",
+        "notes": "Login to your account, go to your personal profile page and click on 'Deactivate Your Account'. You'll receive a confirmation email.",
+        "notes_it": "Loggati col tuo account, apri la pagina personale del tuo profilo e clicca su 'Disattiva il tuo account'. Riceverai una email di conferma.",
+        "domains": [
+            "qmpeople.com",
+            "bg.qmpeople.com",
+            "da.qmpeople.com",
+            "de.qmpeople.com",
+            "es.qmpeople.com",
+            "fi.qmpeople.com",
+            "fr.qmpeople.com",
+            "it.qmpeople.com",
+            "ja.qmpeople.com",
+            "ko.qmpeople.com",
+            "nl.qmpeople.com",
+            "pl.qmpeople.com",
+            "pt.qmpeople.com",
+            "ro.qmpeople.com",
+            "ru.qmpeople.com",
+            "sv.qmpeople.com",
+            "tr.qmpeople.com",
+            "zh.qmpeople.com"
+        ]
+    },
+
+    {
         "name": "Quora",
         "url": "http://www.quora.com/Quora-product/How-do-I-delete-my-Quora-account",
         "difficulty": "hard",
